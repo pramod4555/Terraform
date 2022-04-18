@@ -34,4 +34,3 @@ stage ("terraform init")
         }
         }
         }
-        }
